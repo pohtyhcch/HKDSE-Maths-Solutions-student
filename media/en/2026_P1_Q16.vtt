@@ -1,0 +1,149 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:12.416
+HKDSE 2026, Paper 1, Question 16. Topic: Circle: Centre, Tangents & Triangle Angles. This is the full worked solution in English.
+
+2
+00:00:12.836 --> 00:00:24.675
+It is given that P, Q and R are three points in a rectangular coordinate plane. The coordinates of P and Q are (7,8) and (minus 13,20) respectively.
+
+3
+00:00:24.835 --> 00:00:38.206
+The equation of the perpendicular bisector of PR is 3x plus 5y minus 27 equals 0. Let C be the circle which passes through P, Q and R. (a) Find the equation of C.
+
+4
+00:00:38.366 --> 00:00:49.391
+(b) The tangent to C at P and the tangent to C at R intersect at the point H. Is triangle HPR a right-angled triangle? Explain your answer.
+
+5
+00:00:49.811 --> 00:00:54.810
+Step 1. Step 1 times Centre on two bisectors.
+
+6
+00:00:54.970 --> 00:01:02.669
+Key rule: Perpendicular Bisector of a Chord. the centre lies on the perpendicular bisector of every chord.
+
+7
+00:01:02.829 --> 00:01:09.434
+O is equidistant from P, Q and R, so it lies on the bisectors of PQ and PR.
+
+8
+00:01:09.594 --> 00:01:22.119
+The centre O of C is equidistant from P, Q, R, so it lies on the perpendicular bisector of PQ and on the given bisector of PR. Midpoint of PQ equals (minus 3, 14).
+
+9
+00:01:22.279 --> 00:01:38.295
+slope of PQ equals 20 minus 8 over minus 13 minus 7 equals minus 35, so its bisector has slope 53: y minus 14 equals 53(x plus 3) which gives 5x minus 3y plus 57 equals 0.
+
+10
+00:01:38.715 --> 00:01:44.433
+Step 2. Step 2 times Intersect the bisectors goes to find O.
+
+11
+00:01:44.593 --> 00:02:01.446
+cases 3x plus 5y minus 27 equals 0 5x minus 3y plus 57 equals 0 cases which gives 34x plus 204 equals 0 x equals minus 6, y equals 9 O equals (minus 6, 9) Radius.
+
+12
+00:02:01.606 --> 00:02:09.179
+OP squared equals (7 plus 6) squared plus (8 minus 9) squared equals 170.
+
+13
+00:02:09.599 --> 00:02:14.255
+Step 3. Step 3 times Equation of C.
+
+14
+00:02:14.415 --> 00:02:22.138
+Key rule: Equation of a Circle. (x-h) squared plus (y-k) squared equals r squared.
+
+15
+00:02:22.298 --> 00:02:33.621
+With O(minus 6,9) and OP squared equals 170, the circle is (x plus 6) squared plus (y minus 9) squared equals 170.
+
+16
+00:02:33.781 --> 00:02:41.660
+(x plus 6) squared plus (y minus 9) squared equals 170 This is the answer to part (a).
+
+17
+00:02:42.080 --> 00:02:47.137
+Step 4. Step 4 times Find R using the chord PR.
+
+18
+00:02:47.297 --> 00:03:03.122
+The bisector of PR has normal (3,5), so chord PR is parallel to (3,5). Line through P(7,8): (x, y) equals (7 plus 3t, 8 plus 5t) Substitute into C.
+
+19
+00:03:03.282 --> 00:03:18.731
+(13 plus 3t) squared plus (5t minus 1) squared equals 170 which gives 34t squared plus 68t equals 0 t equals 0 or t equals minus 2 R equals (1, minus 2).
+
+20
+00:03:19.151 --> 00:03:25.082
+Step 5. Step 5 times Tangents quadrilateral OPHR.
+
+21
+00:03:25.242 --> 00:03:36.741
+Tangents at P and R are perpendicular to to OP and OR, so in quadrilateral OPHR, angle OPH equals angle ORH equals 90 to the power circ.
+
+22
+00:03:36.901 --> 00:03:42.681
+giving angle PHR equals 180 to the power circ- angle POR.
+
+23
+00:03:43.101 --> 00:03:48.548
+Step 6. Step 6 times Angle POR final check.
+
+24
+00:03:48.708 --> 00:03:56.973
+Key rule: Cosine Formula. c squared equals a squared plus b squared minus 2ab cosine C.
+
+25
+00:03:57.133 --> 00:04:10.896
+cosine angle POR equals 204 over 340 equals 3 over 5 gives angle PHR is approximately 126.9 to the power degrees, so no angle is 90 to the power degrees.
+
+26
+00:04:11.056 --> 00:04:24.360
+From O(minus 6,9) to P(7,8) the x minus coordinate increases by 7 minus (minus 6) equals 13 and the y minus coordinate increases by 8 minus 9 equals minus 1.
+
+27
+00:04:24.520 --> 00:04:31.302
+so OP squared equals 13 squared plus (minus 1) squared equals 170.
+
+28
+00:04:31.462 --> 00:04:45.119
+From O(minus 6,9) to R(1,-2) the x minus coordinate increases by 1 minus (minus 6) equals 7 and the y minus coordinate increases by minus 2 minus 9 equals minus 11.
+
+29
+00:04:45.279 --> 00:04:52.132
+so OR squared equals 7 squared plus (minus 11) squared equals 170.
+
+30
+00:04:52.292 --> 00:05:03.214
+Also PR squared equals (7 minus 1) squared plus (8 minus (minus 2)) squared equals 6 squared plus 10 squared equals 136.
+
+31
+00:05:03.374 --> 00:05:18.529
+The cosine formula in triangle POR gives cosine angle POR equals OP squared plus OR squared minus PR squared over 2 times OP times OR equals 170 plus 170 minus 136 over.
+
+32
+00:05:18.689 --> 00:05:33.466
+2(170) equals 204 over 340 equals 35 angle POR is approximately 53.1 to the power circ angle PHR is approximately 126.9 to the power circ.
+
+33
+00:05:33.626 --> 00:05:42.496
+angle HPR equals angle HRP is approximately 26.6 to the power circ No angle equals 90 to the power circ.
+
+34
+00:05:42.656 --> 00:05:57.693
+Alternatively, H equals (6.5, 1.5), so HP squared plus HR squared equals 42.5 plus 42.5 equals 85 is not equal to PR squared equals 136.
+
+35
+00:05:58.113 --> 00:06:07.537
+So the answer is: (a) (x plus 6) squared plus (y minus 9) squared equals 170 (b) Not right-angled.
+
+36
+00:06:07.697 --> 00:06:20.068
+angle PHR is approximately 126.9 to the power circ (base angles is approximately 26.6 to the power circ), so triangle HPR is not a right-angled triangle.
+
+37
+00:06:20.488 --> 00:06:29.615
+That completes HKDSE 2026 Paper 1 Question 16. Every step shown here matches the worked solution on the page.

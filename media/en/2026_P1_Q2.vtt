@@ -1,0 +1,77 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:10.164
+HKDSE 2026, Paper 1, Question 2. Topic: Laws of Indices. This is the full worked solution in English.
+
+2
+00:00:10.584 --> 00:00:19.618
+Simplify (uv squared) to the power 5 over u to the power 7 v to the power minus 3 and express your answer with positive indices.
+
+3
+00:00:20.038 --> 00:00:23.351
+Step 1. STEP 1.
+
+4
+00:00:23.511 --> 00:00:35.904
+Key rule: Power of a Product & Power of a Power. (ab) to the power n equals a to the power n b to the power n, (a to the power m) to the power n equals a to the power mn.
+
+5
+00:00:36.064 --> 00:00:40.134
+Apply the outer index to every factor inside the bracket.
+
+6
+00:00:40.294 --> 00:00:51.309
+Apply the power-of-a-product law (ab) to the power n equals a to the power n b to the power n and the power-of-a-power law (a to the power m) to the power n equals a to.
+
+7
+00:00:51.469 --> 00:01:01.530
+the power mn: (uv squared) to the power 5 equals u to the power 5 (v squared) to the power 5 equals u to the power 5 v to the power 10.
+
+8
+00:01:01.950 --> 00:01:05.451
+Step 2. STEP 2.
+
+9
+00:01:05.611 --> 00:01:14.832
+Key rule: Quotient Law of Indices. a to the power m over a to the power n equals a to the power m-n (a is not equal to 0).
+
+10
+00:01:14.992 --> 00:01:19.179
+Subtract the index of the denominator from that of the numerator.
+
+11
+00:01:19.339 --> 00:01:25.426
+Divide using a to the power m over a to the power n equals a to the power m-n for each base.
+
+12
+00:01:25.586 --> 00:01:36.908
+u to the power 5 v to the power 10 over u to the power 7 v to the power minus 3 equals u to the power 5 minus 7 v to the power 10 minus (minus 3) equals u to the power.
+
+13
+00:01:37.068 --> 00:01:40.289
+minus 2 v to the power 13.
+
+14
+00:01:40.709 --> 00:01:44.328
+Step 3. STEP 3.
+
+15
+00:01:44.488 --> 00:01:54.982
+Key rule: Negative Index Law. a to the power minus n equals 1 over a to the power n. Turn every negative index into a positive one by flipping the base.
+
+16
+00:01:55.142 --> 00:02:02.255
+Rewrite the negative index as a positive one, since a to the power minus n equals 1 over a to the power n.
+
+17
+00:02:02.415 --> 00:02:08.643
+u to the power minus 2 v to the power 13 equals v to the power 13 over u squared.
+
+18
+00:02:09.063 --> 00:02:13.616
+So the answer is: v to the power 13 over u squared.
+
+19
+00:02:14.036 --> 00:02:22.844
+That completes HKDSE 2026 Paper 1 Question 2. Every step shown here matches the worked solution on the page.

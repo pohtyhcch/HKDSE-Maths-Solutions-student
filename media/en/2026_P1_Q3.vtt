@@ -1,0 +1,109 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:07.817
+HKDSE 2026, Paper 1, Question 3. This is the full worked solution in English.
+
+2
+00:00:08.237 --> 00:00:18.896
+The coordinates of the points P and Q are (minus 6, 5) and (2, 1) respectively. P is translated downwards by r units to R.
+
+3
+00:00:19.056 --> 00:00:28.268
+(a) Write down, in terms of r, the coordinates of R. (b) Find r such that angle PQR equals 90 to the power degrees.
+
+4
+00:00:28.688 --> 00:00:34.477
+Step 1. STEP 1 times TRANSLATION DOWNWARDS goes to PART (a).
+
+5
+00:00:34.637 --> 00:00:48.786
+Key rule: Translation. (x, y) tends to (x, y-r) (down r units). The x minus coordinate stays minus 6, so R equals (minus 6, 5 minus r).
+
+6
+00:00:48.946 --> 00:00:59.656
+A translation downwards by r units leaves the x minus coordinate unchanged and decreases the y minus coordinate by r: R equals (minus 6, 5 minus r).
+
+7
+00:01:00.076 --> 00:01:05.322
+Step 2. STEP 2 times COMPARE THE GRADIENTS AT Q.
+
+8
+00:01:05.482 --> 00:01:19.514
+Key rule: Gradient of a Segment. m equals y sub 2 minus y sub 1 over x sub 2 minus x sub 1. QP rises 4 over a run of minus 8, so m sub QP equals minus 12.
+
+9
+00:01:19.674 --> 00:01:23.968
+QR has the same run minus 8 and rise 4 minus r.
+
+10
+00:01:24.128 --> 00:01:33.611
+angle PQR equals 90 to the power degrees means the segment QP and the segment QR are perpendicular, so the product of their gradients is minus 1.
+
+11
+00:01:33.771 --> 00:01:48.336
+From Q(2, 1) to P(minus 6, 5) the x minus coordinate changes by x sub P minus x sub Q equals minus 6 minus 2 equals minus 8 and the y minus coordinate by y sub P minus y.
+
+12
+00:01:48.496 --> 00:01:52.566
+sub Q equals 5 minus 1 equals 4.
+
+13
+00:01:52.726 --> 00:02:07.621
+m sub QP equals y sub P minus y sub Q over x sub P minus x sub Q equals 5 minus 1 over minus 6 minus 2 equals 4 over minus 8 equals minus 12 From Q(2, 1) to R(minus 6.
+
+14
+00:02:07.781 --> 00:02:20.460
+5 minus r) the changes are x sub R minus x sub Q equals minus 6 minus 2 equals minus 8 and y sub R minus y sub Q equals (5 minus r)-1 equals 4 minus r.
+
+15
+00:02:20.620 --> 00:02:28.746
+m sub QR equals (5 minus r)-1 over minus 6 minus 2 equals 4 minus r over minus 8.
+
+16
+00:02:29.166 --> 00:02:35.663
+Step 3. STEP 3 times SET THE PRODUCT OF GRADIENTS EQUAL TO minus 1.
+
+17
+00:02:35.823 --> 00:02:49.289
+Key rule: PERPENDICULAR LINES. m sub 1 m sub 2 equals minus 1. 4 minus r over 16 equals minus 1, so 4 minus r equals minus 16 and r equals 20.
+
+18
+00:02:49.449 --> 00:02:54.957
+Perpendicular segments satisfy m sub 1 m sub 2 equals minus 1.
+
+19
+00:02:55.117 --> 00:03:05.272
+(minus 12)(4 minus r over minus 8) equals 4 minus r over 16 equals minus 1 4 minus r equals minus 16 which gives r equals 20.
+
+20
+00:03:05.692 --> 00:03:09.689
+Step 4. STEP 4 times CHECK.
+
+21
+00:03:09.849 --> 00:03:22.598
+With r equals 20, R equals (minus 6, minus 15), so m sub QR equals minus 15 minus 1 over minus 6 minus 2 equals minus 16 over minus 8 equals 2.
+
+22
+00:03:22.758 --> 00:03:31.156
+m sub QP m sub QR equals (minus 12)(2) equals minus 1 Pythagoras confirms the right angle.
+
+23
+00:03:31.316 --> 00:03:36.813
+PQ squared equals (minus 8) squared plus 4 squared equals 80.
+
+24
+00:03:36.973 --> 00:03:52.210
+QR squared equals (minus 8) squared plus (minus 16) squared equals 320 and PR squared equals 0 squared plus (minus 20) squared equals 400, with 80 plus 320 equals 400.
+
+25
+00:03:52.370 --> 00:04:00.945
+QP is shallow (gradient minus 12) and QR is steep (gradient 2); the diagram shows the right angle at Q.
+
+26
+00:04:01.365 --> 00:04:09.255
+So the answer is: (a) R equals (minus 6, 5 minus r) (b) r equals 20.
+
+27
+00:04:09.675 --> 00:04:18.589
+That completes HKDSE 2026 Paper 1 Question 3. Every step shown here matches the worked solution on the page.

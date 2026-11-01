@@ -1,0 +1,105 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:11.614
+HKDSE 2026, Paper 1, Question 14. Topic: Polynomial Division & Repeated Roots. This is the full worked solution in English.
+
+2
+00:00:12.034 --> 00:00:24.772
+When the polynomial g(x) is divided by x squared plus 2x plus a, the quotient and the remainder are x plus 13 and b(x minus 3) respectively, where a and b are constants.
+
+3
+00:00:24.932 --> 00:00:31.428
+It is given that g(x) is divisible by x minus 3. (a) Find a.
+
+4
+00:00:31.588 --> 00:00:41.457
+(b) Is there only one possible value of b such that at least two roots of the equation g(x) equals 0 are equal? Explain your answer.
+
+5
+00:00:41.877 --> 00:00:47.961
+Step 1. STEP 1 — write g(x) using the division identity.
+
+6
+00:00:48.121 --> 00:01:05.714
+Key rule: Division Identity. g(x) equals q(x)(x plus 13) plus r(x). The stated division writes g(x) equals (x squared plus 2x plus a)(x plus 13) plus b(x minus 3).
+
+7
+00:01:05.874 --> 00:01:13.965
+g(x) equals (x squared plus 2x plus a)(x plus 13) plus b(x minus 3).
+
+8
+00:01:14.385 --> 00:01:20.504
+Step 2. PART (a) — use g(3) equals 0.
+
+9
+00:01:20.664 --> 00:01:29.519
+Key rule: Factor Theorem. (x-c) is a factor of g(x) if and only if g(c) equals 0.
+
+10
+00:01:29.679 --> 00:01:38.997
+Divisibility by x minus 3 gives g(3) equals 16(a plus 15) equals 0, so a equals minus 15.
+
+11
+00:01:39.157 --> 00:01:56.022
+Since g(x) is divisible by x minus 3, g(3) equals 0: g(3) equals (9 plus 6 plus a)(16) plus b(0) equals 16(a plus 15) equals 0 a equals minus 15.
+
+12
+00:01:56.442 --> 00:02:03.304
+Step 3. PART (b) — factor g(x) with a equals minus 15.
+
+13
+00:02:03.464 --> 00:02:21.602
+x squared plus 2x minus 15 equals (x plus 5)(x minus 3) g(x) equals (x plus 5)(x minus 3)(x plus 13) plus b(x minus 3) equals (x minus 3) [(x plus 5)(x plus 13) plus b ].
+
+14
+00:02:21.762 --> 00:02:27.825
+equals (x minus 3) (x squared plus 18x plus 65 plus b).
+
+15
+00:02:28.245 --> 00:02:34.541
+Step 4. PART (b) — Case 1: the quadratic has a repeated root.
+
+16
+00:02:34.701 --> 00:02:47.943
+Key rule: Discriminant. delta equals b squared minus 4ac. For a repeated root, 18 squared minus 4(65 plus b) equals 0, so b equals 16.
+
+17
+00:02:48.103 --> 00:02:50.805
+Discriminant equals 0.
+
+18
+00:02:50.965 --> 00:03:06.532
+18 squared minus 4(65 plus b) equals 0 which gives 324 minus 260 minus 4b equals 0 which gives b equals 16 Then g(x) equals (x minus 3)(x plus 9) squared.
+
+19
+00:03:06.692 --> 00:03:10.727
+the roots are 3, minus 9, minus 9 ✓.
+
+20
+00:03:11.147 --> 00:03:18.398
+Step 5. PART (b) — Case 2: the quadratic shares the root x equals 3.
+
+21
+00:03:18.558 --> 00:03:34.998
+3 squared plus 18(3) plus 65 plus b equals 0 which gives 9 plus 54 plus 65 plus b equals 0 which gives b equals minus 128 Then g(x) equals (x minus 3) squared (x plus.
+
+22
+00:03:35.158 --> 00:03:39.901
+53): the roots are 3, 3, minus 53 ✓.
+
+23
+00:03:40.321 --> 00:03:45.190
+Step 6. PART (b) — conclusion.
+
+24
+00:03:45.350 --> 00:03:54.974
+Both b equals 16 and b equals minus 128 make at least two roots equal, so the answer is no — there are two possible values of b.
+
+25
+00:03:55.394 --> 00:04:08.898
+So the answer is: (a) a equals minus 15 (b) No — there are two values: b equals 16 (double root minus 9) and b equals minus 128 (double root 3).
+
+26
+00:04:09.318 --> 00:04:18.420
+That completes HKDSE 2026 Paper 1 Question 14. Every step shown here matches the worked solution on the page.

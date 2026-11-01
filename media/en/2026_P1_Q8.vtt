@@ -1,0 +1,93 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:15.128
+HKDSE 2026, Paper 1, Question 8. Topic: HKDSE 2026 · Paper 1 · Question 8 Similar Triangles & Congruence (SAS). This is the full worked solution in English.
+
+2
+00:00:15.548 --> 00:00:21.715
+In Figure 1, ABC is a triangle. D is a point lying on AB.
+
+3
+00:00:21.875 --> 00:00:35.517
+Let E and F be points lying on CB produced and CD produced respectively such that BD over over EF and BC equals EF. It is given that BD equals 8 cm and BE equals 6 cm.
+
+4
+00:00:35.677 --> 00:00:47.964
+(a) By considering a pair of similar triangles, find the length of BC. (b) Suppose that AD equals 10 cm. Prove that triangle ABC is congruent to triangle CEF.
+
+5
+00:00:48.384 --> 00:00:53.748
+Step 1. Step 1 times Identify similar triangles.
+
+6
+00:00:53.908 --> 00:01:03.117
+Key rule: Similar Triangles (AAA). DB over over FE which gives triangle CDB is similar to triangle CFE.
+
+7
+00:01:03.277 --> 00:01:10.153
+DB joins points on CF and CE and is parallel to FE, so corresponding angles are equal.
+
+8
+00:01:10.313 --> 00:01:22.211
+Let BC equals x. Since E lies on CB produced, C, B, E are collinear; since F lies on CD produced, C, D, F are collinear.
+
+9
+00:01:22.371 --> 00:01:35.132
+In triangle CFE, the segment DB joins points on CF and CE, and DB over over FE, so triangle CDB is similar to triangle CFE (corresponding angles equal, e.g.
+
+10
+00:01:35.292 --> 00:01:39.079
+angle CDB equals angle CFE).
+
+11
+00:01:39.499 --> 00:01:44.651
+Step 2. Step 2 times Use the ratio of sides.
+
+12
+00:01:44.811 --> 00:02:00.553
+Key rule: Ratio of Corresponding Sides. CB over CE equals DB over FE. x over x plus 6 equals 8 over x gives x squared minus 8x minus 48 equals 0, so x equals 12.
+
+13
+00:02:00.713 --> 00:02:13.179
+CB over CE equals DB over FE which gives x over x plus 6 equals 8 over x (because EF equals BC equals x and CE equals CB plus BE equals x plus 6).
+
+14
+00:02:13.339 --> 00:02:28.187
+Hence x squared equals 8(x plus 6) which gives x squared minus 8x minus 48 equals 0 which gives (x minus 12)(x plus 4) equals 0 Since x is greater than 0: BC equals 12 cm.
+
+15
+00:02:28.607 --> 00:02:35.115
+Step 3. Step 3 times Part (b) — gather the SAS ingredients.
+
+16
+00:02:35.275 --> 00:02:51.091
+Side 1: AB equals AD plus DB equals 10 plus 8 equals 18 and CE equals CB plus BE equals 12 plus 6 equals 18, so AB equals CE Side 2: given BC equals EF (both equals 12).
+
+17
+00:02:51.511 --> 00:02:56.026
+Step 4. Step 4 times The included angle.
+
+18
+00:02:56.186 --> 00:03:07.709
+Since BD over over EF and CBE is a straight line, corresponding angles give angle DBC equals angle FEC and since D lies on AB, ray BD is ray BA.
+
+19
+00:03:07.869 --> 00:03:18.186
+so angle ABC equals angle DBC. Therefore angle ABC equals angle CEF which is the included angle between the two pairs of equal sides.
+
+20
+00:03:18.606 --> 00:03:23.192
+Step 5. Step 5 times Conclusion.
+
+21
+00:03:23.352 --> 00:03:36.549
+In triangle ABC and triangle CEF: AB equals CE, angle ABC equals angle CEF, BC equals EF therefore triangle ABC is congruent to triangle CEF (SAS).
+
+22
+00:03:36.969 --> 00:03:46.511
+So the answer is: (a) BC equals 12 cm (b) triangle ABC is congruent to triangle CEF proved by SAS.
+
+23
+00:03:46.931 --> 00:03:55.668
+That completes HKDSE 2026 Paper 1 Question 8. Every step shown here matches the worked solution on the page.

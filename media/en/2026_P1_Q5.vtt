@@ -1,0 +1,61 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:12.192
+HKDSE 2026, Paper 1, Question 5. Topic: Simultaneous Equations (Percentage Word Problem). This is the full worked solution in English.
+
+2
+00:00:12.612 --> 00:00:18.534
+The sum of the number of blue pens and the number of red pens in a box is 795.
+
+3
+00:00:18.694 --> 00:00:28.082
+If 123 blue pens are taken out from the box, then the number of blue pens in the box is 25 percent less than the number of red pens in the box.
+
+4
+00:00:28.242 --> 00:00:31.463
+Find the number of red pens in the box.
+
+5
+00:00:31.883 --> 00:00:36.587
+Step 1. STEP 1 — define variables.
+
+6
+00:00:36.747 --> 00:00:42.739
+Let B equals number of blue pens and R equals number of red pens originally in the box.
+
+7
+00:00:43.159 --> 00:00:48.111
+Step 2. STEP 2 — translate the statements.
+
+8
+00:00:48.271 --> 00:01:03.411
+Key rule: Percentage Decrease. new equals (1 minus p percent) times original. Blue pens are 25 percent fewer than red pens, so B minus 123 equals 0.75R.
+
+9
+00:01:03.571 --> 00:01:21.132
+Total: B plus R equals 795 (1) After taking out 123 blue pens, the blue pens are 25 percent less than the red pens, i.e. 75 percent of R: B minus 123 equals 0.75R (2).
+
+10
+00:01:21.552 --> 00:01:26.185
+Step 3. STEP 3 — solve the system.
+
+11
+00:01:26.345 --> 00:01:44.056
+Key rule: Substitution Method. B equals 0.75R plus 123. Substituting into B plus R equals 795 gives 1.75R equals 672, so R equals 384.
+
+12
+00:01:44.216 --> 00:01:52.446
+From (2): B equals 0.75R plus 123. Substitute into (1).
+
+13
+00:01:52.606 --> 00:02:12.489
+0.75R plus 123 plus R equals 795 1.75R equals 672 which gives R equals 672 over 1.75 equals 384 Then B equals 795 minus 384 equals 411.
+
+14
+00:02:12.909 --> 00:02:18.288
+So the answer is: The number of red pens in the box is 384.
+
+15
+00:02:18.708 --> 00:02:27.693
+That completes HKDSE 2026 Paper 1 Question 5. Every step shown here matches the worked solution on the page.

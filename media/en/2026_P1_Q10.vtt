@@ -1,0 +1,109 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:12.098
+HKDSE 2026, Paper 1, Question 10. Topic: Stem-and-Leaf: Quartiles, Range & Probability. This is the full worked solution in English.
+
+2
+00:00:12.518 --> 00:00:19.453
+The stem-and-leaf diagram below shows the distribution of the numbers of driving hours of a group of taxi drivers in a week.
+
+3
+00:00:19.613 --> 00:00:36.369
+Stem (tens) Leaf (units) 2 5 6 9 3 2 3 3 6 6 7 8 4 0 0 2 2 5 5 7 7 7 5 w The ratio of the range to the inter-quartile range of the distribution is 7:3. (a) Find w.
+
+4
+00:00:36.529 --> 00:00:39.939
+(i) Write down the mode of the distribution.
+
+5
+00:00:40.099 --> 00:00:44.605
+(ii) If two taxi drivers are randomly selected from the group.
+
+6
+00:00:44.765 --> 00:00:50.816
+find the probability that the mean of their numbers of driving hours in the week exceeds the mode of the distribution.
+
+7
+00:00:51.236 --> 00:00:59.466
+Step 1. STEP 1 — list the 21 values (with w equals 3, max equals 53).
+
+8
+00:00:59.626 --> 00:01:12.868
+Key rule: Range of a Data Set. range equals largest value - smallest value. The largest value is 50 plus w and the smallest is 25, so the range is 25 plus w.
+
+9
+00:01:13.028 --> 00:01:42.119
+25, 26, 29, 32, 33, 33, 36, 36, 37, 38, 40, 40, 42, 42, 45, 45, 45, 47, 47, 47, (50 plus w). The smallest value is 25, so the range is (50 plus w)-25 equals 25 plus w.
+
+10
+00:01:42.539 --> 00:01:47.420
+Step 2. STEP 2 — find the quartiles.
+
+11
+00:01:47.580 --> 00:01:57.460
+Key rule: Quartiles of an Ordered Data Set. Q sub 1 equals median of the lower half, Q sub 3 equals median of the upper half.
+
+12
+00:01:57.620 --> 00:02:07.174
+With n equals 21 the median is the 11 th value 40, and Q sub 1 equals 33, Q sub 3 equals 45.
+
+13
+00:02:07.334 --> 00:02:21.059
+n equals 21, so the median is the 11th value equals 40. Q sub 1 equals mean of the 5th and 6th values of the lower half equals (33 plus 33) over 2 equals 33.
+
+14
+00:02:21.219 --> 00:02:37.397
+Q sub 3 equals mean of the 5th and 6th values of the upper half equals (45 plus 45) over 2 equals 45. IQR equals Q sub 3 minus Q sub 1 equals 45 minus 33 equals 12.
+
+15
+00:02:37.817 --> 00:02:43.488
+Step 3. PART (a) — use the ratio 7: 3.
+
+16
+00:02:43.648 --> 00:02:55.183
+Range over IQR equals 7 over 3 which gives 25 plus w over 12 equals 7 over 3 25 plus w equals 28 which gives w equals 3.
+
+17
+00:02:55.603 --> 00:03:00.413
+Step 4. PART (b)(i) — mode.
+
+18
+00:03:00.573 --> 00:03:09.867
+Both 45 and 47 appear three times (the highest frequency), so the distribution is bimodal: the modes are 45 and 47.
+
+19
+00:03:10.287 --> 00:03:15.639
+Step 5. PART (b)(ii) — probability.
+
+20
+00:03:15.799 --> 00:03:24.336
+Key rule: Probability with Equally Likely Outcomes. P(E) equals n(E) over n(S).
+
+21
+00:03:24.496 --> 00:03:33.460
+Only 8 pairs out of to the power 21 C sub 2 equals 210 have a sum above 94, giving 4 over 105.
+
+22
+00:03:33.620 --> 00:03:43.064
+Total ways to choose 2 drivers: to the power 21 C sub 2 equals 210. Let the two values be x and y.
+
+23
+00:03:43.224 --> 00:03:51.799
+we need x plus y is greater than 2 times 47 equals 94 (the mean exceeds the mode, i.e. exceeds both modes).
+
+24
+00:03:51.959 --> 00:04:07.114
+Only pairs containing 53 can qualify (47 plus 47 equals 94 is not is greater than 94): 53 with 42, 45 or 47: 1 times (2 plus 3 plus 3) equals 8 pairs.
+
+25
+00:04:07.274 --> 00:04:12.511
+P equals 8 over 210 equals 4 over 105.
+
+26
+00:04:12.931 --> 00:04:28.994
+So the answer is: (a) w equals 3 (b)(i) 45 and 47 (bimodal) (b)(ii) P equals 4 over 105 (exceeding both modes; 11 over 105 if "mode" means 45).
+
+27
+00:04:29.414 --> 00:04:38.293
+That completes HKDSE 2026 Paper 1 Question 10. Every step shown here matches the worked solution on the page.

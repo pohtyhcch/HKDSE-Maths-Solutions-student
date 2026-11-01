@@ -1,0 +1,69 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:10.860
+HKDSE 2026, Paper 1, Question 9. Topic: Frequency Distribution & Mean. This is the full worked solution in English.
+
+2
+00:00:11.280 --> 00:00:18.946
+The frequency distribution table and the cumulative frequency distribution table below show the distribution of the weights of 20 apples.
+
+3
+00:00:19.106 --> 00:00:40.252
+Weight (grams) Frequency 91 minus 100 2 101 minus 110 a 111 minus 120 6 121 minus 130 7 131 minus 140 h Weight less than (grams) Cumulative frequency 100.5 2 110.5 6.
+
+4
+00:00:40.412 --> 00:00:51.569
+120.5 12 130.5 b 140.5 k (a) Find a and b. (b) Find the mean of the distribution.
+
+5
+00:00:51.989 --> 00:00:56.210
+Step 1. PART (a) — find a.
+
+6
+00:00:56.370 --> 00:01:03.809
+Key rule: Cumulative Frequency. cumulative frequency equals sum of the frequencies up to that class.
+
+7
+00:01:03.969 --> 00:01:09.596
+The first two classes hold 2 plus a apples, and the table states this total is 6.
+
+8
+00:01:09.756 --> 00:01:18.991
+The cumulative frequency at 110.5 equals the frequencies of the first two classes: 2 plus a equals 6 which gives a equals 4.
+
+9
+00:01:19.411 --> 00:01:23.867
+Step 2. PART (a) — find b.
+
+10
+00:01:24.027 --> 00:01:34.854
+The cumulative frequency at 130.5 equals the sum of the first four frequencies: b equals 2 plus 4 plus 6 plus 7 equals 19 (Consistency.
+
+11
+00:01:35.014 --> 00:01:44.073
+since there are 20 apples, k equals 20 and h equals 20 minus 19 equals 1, which matches the last row of the cumulative table.).
+
+12
+00:01:44.493 --> 00:01:50.069
+Step 3. PART (b) — mean using class midpoints.
+
+13
+00:01:50.229 --> 00:02:04.037
+Key rule: Mean from a Frequency Table. x equals the sum of fx over the sum of f. With midpoints 95 to 135 and 20 apples, the total 2310 gives the mean.
+
+14
+00:02:04.197 --> 00:02:12.996
+Midpoints: 95, 105, 115, 125, 135.
+
+15
+00:02:13.156 --> 00:02:36.188
+Mean equals 2(95) plus 4(105) plus 6(115) plus 7(125) plus 1(135) over 20 equals 190 plus 420 plus 690 plus 875 plus 135 over 20 equals 2310 over 20.
+
+16
+00:02:36.608 --> 00:02:45.419
+So the answer is: (a) a equals 4, b equals 19 (b) Mean equals 115.5 grams.
+
+17
+00:02:45.839 --> 00:02:54.693
+That completes HKDSE 2026 Paper 1 Question 9. Every step shown here matches the worked solution on the page.
