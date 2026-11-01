@@ -26,7 +26,7 @@ find the probability that the mean of their numbers of driving hours in the week
 
 7
 00:00:51.236 --> 00:00:59.466
-Step 1. STEP 1 — list the 21 values (with w equals 3, max equals 53).
+STEP 1 — list the 21 values (with w equals 3, max equals 53).
 
 8
 00:00:59.626 --> 00:01:12.868
@@ -38,7 +38,7 @@ Key rule: Range of a Data Set. range equals largest value - smallest value. The 
 
 10
 00:01:42.539 --> 00:01:47.420
-Step 2. STEP 2 — find the quartiles.
+STEP 2 — find the quartiles.
 
 11
 00:01:47.580 --> 00:01:57.460

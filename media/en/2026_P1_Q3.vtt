@@ -14,7 +14,7 @@ The coordinates of the points P and Q are (minus 6, 5) and (2, 1) respectively. 
 
 4
 00:00:28.688 --> 00:00:34.477
-Step 1. STEP 1 times TRANSLATION DOWNWARDS goes to PART (a).
+STEP 1 times TRANSLATION DOWNWARDS goes to PART (a).
 
 5
 00:00:34.637 --> 00:00:48.786
@@ -26,7 +26,7 @@ A translation downwards by r units leaves the x minus coordinate unchanged and d
 
 7
 00:01:00.076 --> 00:01:05.322
-Step 2. STEP 2 times COMPARE THE GRADIENTS AT Q.
+STEP 2 times COMPARE THE GRADIENTS AT Q.
 
 8
 00:01:05.482 --> 00:01:19.514
@@ -62,7 +62,7 @@ m sub QR equals (5 minus r)-1 over minus 6 minus 2 equals 4 minus r over minus 8
 
 16
 00:02:29.166 --> 00:02:35.663
-Step 3. STEP 3 times SET THE PRODUCT OF GRADIENTS EQUAL TO minus 1.
+STEP 3 times SET THE PRODUCT OF GRADIENTS EQUAL TO minus 1.
 
 17
 00:02:35.823 --> 00:02:49.289
@@ -78,7 +78,7 @@ Perpendicular segments satisfy m sub 1 m sub 2 equals minus 1.
 
 20
 00:03:05.692 --> 00:03:09.689
-Step 4. STEP 4 times CHECK.
+STEP 4 times CHECK.
 
 21
 00:03:09.849 --> 00:03:22.598
